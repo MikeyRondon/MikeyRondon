@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-Entry-level IT professional with a passion for systems, troubleshooting, and cybersecurity. This GitHub contains technical documentation, hands-on labs, and tools I've created or explored as I transition into the field.
+I am an Entry-level IT professional with a passion for systems, troubleshooting, and cybersecurity. This GitHub contains technical documentation, hands-on labs, and tools I've created or explored as I transition into the field.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
