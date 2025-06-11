@@ -8,7 +8,7 @@ I am an Entry-level IT professional with a passion for systems, troubleshooting,
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in technology began with hands-on experience building and repairing computers, which sparked a lasting interest in IT systems and security. After earning certifications in Google IT Support, Google Cybersecurity, and CompTIA Security+, I’ve made the transition into the IT field with a focus on practical support and security operations. I'm now actively pursuing opportunities to apply my skills in a professional setting—specifically aiming to grow into a Tier 1 SOC Analyst or IT Support role where I can contribute to threat detection, system hardening, and end-user support.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
