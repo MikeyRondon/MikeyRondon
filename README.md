@@ -61,4 +61,3 @@ My journey in technology began with hands-on experience building and repairing c
 
 ---
 
-Would you like me to help you create placeholder repos for upcoming projects like `thm-writeups`, `powershell-tools`, or `log-analysis-examples`?
