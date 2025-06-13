@@ -27,6 +27,8 @@ My journey in technology began with hands-on experience building and repairing c
 
 ## 🛠️ Tools
 
+> 🔍 **Note**: This lab is part of my ongoing hands-on training. Some tools listed below are part of my learning roadmap and may not reflect prior experience. As I complete labs and tutorials, I’ll update each section to show practical usage.
+
 ### 🛰️ Networking & Monitoring
 - Wireshark  
 - Suricata  
