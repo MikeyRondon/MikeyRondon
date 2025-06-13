@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I am an entry-level IT professional with a passion for systems, troubleshooting, and cybersecurity. This GitHub contains technical documentation, hands-on labs, and tools I've explored as I transition into the field.
+I’m an entry-level IT and cybersecurity professional actively building hands-on skills through a structured home lab. This GitHub showcases my training progress, including lab setups, threat detection exercises, and documentation of tools I’m learning like Wireshark, Wazuh, and Sysmon.
 
 ---
 
