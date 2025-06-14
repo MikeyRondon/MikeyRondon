@@ -58,11 +58,14 @@ My journey in technology began with hands-on experience building and repairing c
 
 ## 📂 Projects
 
-- 🧪 [Home Lab Setup](https://github.com/MikeyRondon/home-lab-setup):  
-  Custom-built virtual lab for practicing threat detection, system hardening, and network monitoring.
+- 🧪 [Home Lab Setup](https://github.com/MikeyRondon/home-lab-setup)  
+  My personal cybersecurity lab with virtual machines for practicing threat detection, system hardening, and monitoring.
 
-- 🔍 [Wireshark TCP SYN Scan Analysis](https://github.com/MikeyRondon/home-lab-setup/blob/main/wireshark-scan-analysis.md):  
-  A lab walkthrough capturing and analyzing Nmap SYN scan traffic between virtual machines using Wireshark.
+- 🔍 [Wireshark TCP SYN Scan Analysis](https://github.com/MikeyRondon/home-lab-setup/blob/main/wireshark-scan-analysis.md)  
+  Captured and analyzed a basic TCP SYN scan using Nmap and Wireshark in an isolated virtual lab.
+
+- 🏗️ [Home Lab Architecture Overview](https://github.com/MikeyRondon/home-lab-setup/blob/main/setup-overview.md)  
+  Breakdown of host specs, VM layout, network segmentation, and tool selection used to build my home cybersecurity lab.
 
 - 🚧 _Coming soon_: TryHackMe writeups, PowerShell tools, endpoint security tests, and SIEM integrations.
 
