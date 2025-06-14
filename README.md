@@ -64,10 +64,14 @@ My journey in technology began with hands-on experience building and repairing c
 - 🔍 [Wireshark TCP SYN Scan Analysis](https://github.com/MikeyRondon/home-lab-setup/blob/main/wireshark-scan-analysis.md)  
   Captured and analyzed a basic TCP SYN scan using Nmap and Wireshark in an isolated virtual lab.
 
+- 🖥️ [Sysmon Log Analysis](https://github.com/MikeyRondon/home-lab-setup/blob/main/sysmon-log-analysis.md)  
+  Installed and configured Sysmon on a Windows 10 VM to monitor process creation and network activity during simulated recon events.
+
 - 🏗️ [Home Lab Architecture Overview](https://github.com/MikeyRondon/home-lab-setup/blob/main/setup-overview.md)  
   Breakdown of host specs, VM layout, network segmentation, and tool selection used to build my home cybersecurity lab.
 
 - 🚧 _Coming soon_: TryHackMe writeups, PowerShell tools, endpoint security tests, and SIEM integrations.
+
 
 ---
 
