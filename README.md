@@ -16,37 +16,37 @@ My journey in technology began with hands-on experience building and repairing c
 
 ## 🧠 Skills
 
-- System troubleshooting & diagnostics  
-- Log analysis & basic threat detection  
-- Incident documentation & communication  
-- Windows/Linux OS administration  
-- Remote support (hardware/software)  
-- Basic scripting: PowerShell & Bash  
+- 🔧 System troubleshooting & diagnostics  
+- 🕵️ Log analysis & basic threat detection  
+- 🛡️ Incident documentation & reporting  
+- 🖥️ Windows / Linux administration  
+- 📞 Remote support (hardware/software)  
+- 💻 Basic scripting – PowerShell & Bash
 
 ---
 
 ## 🛠️ Tools
 
-> 🔍 **Note**: This lab is part of my ongoing hands-on training. Some tools listed below are part of my learning roadmap and may not reflect prior experience. As I complete labs and tutorials, I’ll update each section to show practical usage.
+> 🔍 *Note: Some tools listed are actively in progress as part of my lab work.*
 
 ### 🛰️ Networking & Monitoring
-- Wireshark  
-- Suricata  
-- TCPDump
+- ✅ Wireshark  
+- 🟡 Suricata *(planned)*  
+- 🟡 TCPDump *(learning)*
 
 ### 💻 Endpoints & Systems
-- Windows 10/11  
-- Ubuntu / Kali Linux  
-- VirtualBox
+- ✅ Windows 10/11  
+- ✅ Kali Linux / Ubuntu  
+- ✅ VirtualBox
 
 ### 📊 SIEM & Security
-- Wazuh (in progress)  
-- Splunk Free (planned)  
-- Sysmon + Event Viewer
+- 🟡 Wazuh *(in progress)*  
+- 🟡 Splunk Free *(planned)*  
+- ✅ Sysmon + Event Viewer
 
 ---
 
-## 🧾 Certifications
+## 📜 Certifications
 
 <div>
   <img src="https://img.shields.io/badge/Google%20IT%20Support-34A853?style=for-the-badge&logo=Google&logoColor=white" />
@@ -58,8 +58,13 @@ My journey in technology began with hands-on experience building and repairing c
 
 ## 📂 Projects
 
-- 🧪 [Home Lab Setup](https://github.com/MikeyRondon/home-lab-setup): My personal cybersecurity lab with virtual machines for practicing threat detection, network monitoring, and system hardening.  
-- 🛠️ _More coming soon_: TryHackMe writeups, PowerShell tools, and system configuration guides.
+- 🧪 [Home Lab Setup](https://github.com/MikeyRondon/home-lab-setup):  
+  Custom-built virtual lab for practicing threat detection, system hardening, and network monitoring.
+
+- 🔍 [Wireshark TCP SYN Scan Analysis](https://github.com/MikeyRondon/home-lab-setup/blob/main/wireshark-scan-analysis.md):  
+  A lab walkthrough capturing and analyzing Nmap SYN scan traffic between virtual machines using Wireshark.
+
+- 🚧 _Coming soon_: TryHackMe writeups, PowerShell tools, endpoint security tests, and SIEM integrations.
 
 ---
 
