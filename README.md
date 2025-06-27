@@ -30,19 +30,19 @@ My journey in technology began with hands-on experience building and repairing c
 > 🔍 *Note: Some tools listed are actively in progress as part of my lab work.*
 
 ### 🛰️ Networking & Monitoring
-- ✅ Wireshark  
-- 🟡 Suricata *(planned)*  
-- 🟡 TCPDump *(learning)*
+✅ Wireshark  
+🟡 Suricata *(planned)*  
+🟡 TCPDump *(learning)*
 
 ### 💻 Endpoints & Systems
-- ✅ Windows 10/11  
-- ✅ Kali Linux / Ubuntu  
-- ✅ VirtualBox
+✅ Windows 10/11  
+✅ Kali Linux / Ubuntu  
+✅ VirtualBox
 
 ### 📊 SIEM & Security
-- 🟡 Wazuh *(in progress)*  
-- 🟡 Splunk Free *(planned)*  
-- ✅ Sysmon + Event Viewer
+🟡 Wazuh *(in progress)*  
+🟡 Splunk Free *(planned)*  
+✅ Sysmon + Event Viewer
 
 ---
 
@@ -61,7 +61,8 @@ My journey in technology began with hands-on experience building and repairing c
 - 🧪 [Home Lab Setup](https://github.com/MikeyRondon/home-lab-setup)  
   My personal cybersecurity lab with virtual machines for practicing threat detection, system hardening, and monitoring.
 
-- 📊 [OpenSearch & Wazuh SIEM Guide](https://github.com/MikeyRondon/home-lab-setup/blob/main/docs/OpenSearch-Wazuh-SIEM-Guide.md) 
+- 📊 [OpenSearch & Wazuh SIEM Guide](https://github.com/MikeyRondon/home-lab-setup/blob/main/docs/OpenSearch-Wazuh-SIEM-Guide.md)
+  End-to-end walkthrough for standing up a home-lab SIEM with OpenSearch, Dashboards, Wazuh manager, and a Windows Sysmon agent.
 
 - 🔍 [Wireshark TCP SYN Scan Analysis](https://github.com/MikeyRondon/home-lab-setup/blob/main/wireshark-scan-analysis.md)  
   Captured and analyzed a basic TCP SYN scan using Nmap and Wireshark in an isolated virtual lab.
