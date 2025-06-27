@@ -61,6 +61,8 @@ My journey in technology began with hands-on experience building and repairing c
 - 🧪 [Home Lab Setup](https://github.com/MikeyRondon/home-lab-setup)  
   My personal cybersecurity lab with virtual machines for practicing threat detection, system hardening, and monitoring.
 
+- 📊 [OpenSearch & Wazuh SIEM Guide](https://github.com/MikeyRondon/home-lab-setup/blob/main/docs/OpenSearch-Wazuh-SIEM-Guide.md) 
+
 - 🔍 [Wireshark TCP SYN Scan Analysis](https://github.com/MikeyRondon/home-lab-setup/blob/main/wireshark-scan-analysis.md)  
   Captured and analyzed a basic TCP SYN scan using Nmap and Wireshark in an isolated virtual lab.
 
