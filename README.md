@@ -29,18 +29,18 @@ My journey in technology began with hands-on experience building and repairing c
 
 > 🔍 *Note: Some tools listed are actively in progress as part of my lab work.*
 
-### 🛰️ Networking & Monitoring
+### 🛰️ Networking & Monitoring  
 ✅ Wireshark  
 🟡 Suricata *(planned)*  
 🟡 TCPDump *(learning)*
 
-### 💻 Endpoints & Systems
+### 💻 Endpoints & Systems  
 ✅ Windows 10/11  
 ✅ Kali Linux / Ubuntu  
 ✅ VirtualBox
 
-### 📊 SIEM & Security
-🟡 Wazuh *(in progress)*  
+### 📊 SIEM & Security  
+✅ Wazuh (forwarded Sysmon logs, custom Sigma rules & dashboards)  
 🟡 Splunk Free *(planned)*  
 ✅ Sysmon + Event Viewer
 
@@ -58,20 +58,19 @@ My journey in technology began with hands-on experience building and repairing c
 
 ## 📂 Projects
 
-- 🧪 [Home Lab Setup](https://github.com/MikeyRondon/home-lab-setup)  
-  My personal cybersecurity lab with virtual machines for practicing threat detection, system hardening, and monitoring.
+- 🧪 **[Home Lab Setup](https://github.com/MikeyRondon/home-lab-setup)**  
+  End-to-end home cybersecurity lab: VirtualBox VMs, Wireshark SYN scan analysis, Sysmon → Wazuh integration with custom Sigma rules & incident reporting.
 
 - 🔍 [Wireshark TCP SYN Scan Analysis](https://github.com/MikeyRondon/home-lab-setup/blob/main/wireshark-scan-analysis.md)  
   Captured and analyzed a basic TCP SYN scan using Nmap and Wireshark in an isolated virtual lab.
 
 - 🖥️ [Sysmon Log Analysis](https://github.com/MikeyRondon/home-lab-setup/blob/main/sysmon-log-analysis.md)  
-  Installed and configured Sysmon on a Windows 10 VM to monitor process creation and network activity during simulated recon events.
+  Installed and configured Sysmon on a Windows 10 VM to monitor process creation and network activity, forwarded logs to Wazuh, authored Sigma rules, and documented incidents.
 
 - 🏗️ [Home Lab Architecture Overview](https://github.com/MikeyRondon/home-lab-setup/blob/main/setup-overview.md)  
-  Breakdown of host specs, VM layout, network segmentation, and tool selection used to build my home cybersecurity lab.
+  Breakdown of host specs, VM layout, network segmentation, and tool selection for my home cybersecurity lab.
 
-- 🚧 _Coming soon_: TryHackMe writeups, PowerShell tools, endpoint security tests, and SIEM integrations.
-
+- 🚧 _Coming soon_: TryHackMe write-ups, PowerShell tools, endpoint security tests, and additional SIEM integrations.
 
 ---
 
