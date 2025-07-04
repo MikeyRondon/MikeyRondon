@@ -67,9 +67,6 @@ My journey in technology began with hands-on experience building and repairing c
 - 🖥️ [Sysmon Log Analysis](https://github.com/MikeyRondon/home-lab-setup/blob/main/sysmon-log-analysis.md)  
   Installed and configured Sysmon on a Windows 10 VM to monitor process creation and network activity, forwarded logs to Wazuh, authored Sigma rules, and documented incidents.
 
-- 🏗️ [Home Lab Architecture Overview](https://github.com/MikeyRondon/home-lab-setup/blob/main/setup-overview.md)  
-  Breakdown of host specs, VM layout, network segmentation, and tool selection for my home cybersecurity lab.
-
 - 🚧 _Coming soon_: TryHackMe write-ups, PowerShell tools, endpoint security tests, and additional SIEM integrations.
 
 ---
