@@ -67,7 +67,10 @@ My journey in technology began with hands-on experience building and repairing c
 - 🖥️ [Sysmon Log Analysis](https://github.com/MikeyRondon/home-lab-setup/blob/main/sysmon-log-analysis.md)  
   Installed and configured Sysmon on a Windows 10 VM to monitor process creation and network activity, forwarded logs to Wazuh, authored Sigma rules, and documented incidents.
 
-- 🚧 _Coming soon_: TryHackMe write-ups, PowerShell tools, endpoint security tests, and additional SIEM integrations.
+- 📝 [TryHackMe Write-Ups](https://github.com/MikeyRondon/TryHackMe_Write_Ups)
+  Journal documenting my deep-dives into SOC simulations, phishing analysis, and incident response exercises on TryHackMe.
+  
+- 🚧 _Coming soon_: PowerShell tools, endpoint security tests, and additional SIEM integrations.
 
 ---
 
