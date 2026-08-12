@@ -54,5 +54,3 @@ My interest in technology began with building, upgrading, and troubleshooting co
 
 ## 📂 Projects
 I'm currently rebuilding my IT home lab portfolio with a focus on networking, systems administration, troubleshooting, and security. Projects will be added here as they're completed.
-
----
