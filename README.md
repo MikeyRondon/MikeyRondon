@@ -38,7 +38,6 @@ My interest in technology began with building, upgrading, and troubleshooting co
 - Access control & least privilege concepts
 - Authentication & MFA fundamentals
 - Security hardening fundamentals
----
 
 ---
 
@@ -50,9 +49,10 @@ My interest in technology began with building, upgrading, and troubleshooting co
   <img src="https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA%20A%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-**Currently studying:** CompTIA Network+
----
+
+*Currently studying: CompTIA Network+*
 
 ## 📂 Projects
 I'm currently rebuilding my IT home lab portfolio with a focus on networking, systems administration, troubleshooting, and security. Projects will be added here as they're completed.
+
 ---
