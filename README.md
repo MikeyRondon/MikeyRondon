@@ -4,9 +4,9 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I'm an entry-level IT and networking professional with CompTIA A+ and Security+ certifications and hands-on experience building and troubleshooting Windows systems, virtual networks, Active Directory, firewalls, SIEM monitoring, and network traffic analysis.
+I'm an entry-level IT and networking professional with CompTIA A+ and Security+ certifications and hands-on experience building, upgrading, and troubleshooting computer hardware and Windows systems.
 
-I'm currently developing my networking skills while working toward CompTIA Network+ and building practical projects in my home lab as well as IT support and SOC simulation platforms, including TryHackMe and ServiceDesk Simulator.
+I'm currently developing my networking skills while working toward CompTIA Network+ and gaining practical experience through home lab projects and IT support/SOC simulation platforms.
 
 ---
 
@@ -18,34 +18,27 @@ My interest in technology began with building, upgrading, and troubleshooting co
 
 ## 🧠 Skills
 
-💻 IT Support & Systems
+### 💻 IT Support & Systems
 - Windows 10/11 troubleshooting
-- Hardware installation & diagnostics
-- Remote hardware & software support
-- Windows & Linux administration
-- Virtualization
-🌐 Networking
+- PC hardware installation, upgrades & diagnostics
+- Software installation & troubleshooting
+- Windows system configuration
+- Device & driver troubleshooting
+- Disk and storage management
+
+### 🌐 Networking
 - TCP/IP fundamentals
-- Network troubleshooting
-- DNS & DHCP
-- Active Directory
-🛡️ Security
-- Log analysis & basic threat detection
-- Security monitoring
-- Incident documentation & reporting
-⚙️ Scripting
-- Basic PowerShell
-- Basic Bash
+- Basic network connectivity troubleshooting
+- IP configuration
+- DNS & DHCP fundamentals
 
+### 🛡️ Security
+- Security fundamentals
+- Basic log analysis
+- Access control & least privilege concepts
+- Authentication & MFA fundamentals
+- Security hardening fundamentals
 ---
-
-## 🛠️ Tools
-
-### 🛰️ Networking & Monitoring  
-
-### 💻 Endpoints & Systems  
-
-### 📊 SIEM & Security  
 
 ---
 
@@ -54,10 +47,10 @@ My interest in technology began with building, upgrading, and troubleshooting co
 <div>
   <img src="https://img.shields.io/badge/Google%20IT%20Support-34A853?style=for-the-badge&logo=Google&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA%20A%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-Currently studying: CompTIA Network+
+**Currently studying:** CompTIA Network+
 ---
 
 ## 📂 Projects
