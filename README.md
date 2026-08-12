@@ -4,45 +4,48 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I’m an entry-level IT and cybersecurity professional actively building hands-on skills through a structured home lab. This GitHub showcases my training progress, including lab setups, threat detection exercises, and documentation of tools I’m learning like Wireshark, Wazuh, and Sysmon.
+I'm an entry-level IT and networking professional with CompTIA A+ and Security+ certifications and hands-on experience building and troubleshooting Windows systems, virtual networks, Active Directory, firewalls, SIEM monitoring, and network traffic analysis.
+
+I'm currently developing my networking skills while working toward CompTIA Network+ and building practical projects in my home lab as well as IT support and SOC simulation platforms, including TryHackMe and ServiceDesk Simulator.
 
 ---
 
 ## 🎯 Objective
 
-My journey in technology began with hands-on experience building and repairing computers, which sparked a lasting interest in IT systems and security. After earning certifications in Google IT Support, Google Cybersecurity, and CompTIA Security+, I’ve transitioned into IT with a focus on practical support and security operations. I'm now actively pursuing opportunities in Tier 1 SOC Analyst and IT Support roles where I can contribute to threat detection, system hardening, and end-user support.
+My interest in technology began with building, upgrading, and troubleshooting computers and grew into a broader interest in IT infrastructure and networking. I'm currently expanding my hands-on experience through home lab projects while studying for CompTIA Network+. My goal is to begin my professional IT career in a support or networking role where I can continue developing my skills in systems administration, network infrastructure, and security.
 
 ---
 
 ## 🧠 Skills
 
-- 🔧 System troubleshooting & diagnostics  
-- 🕵️ Log analysis & basic threat detection  
-- 🛡️ Incident documentation & reporting  
-- 🖥️ Windows / Linux administration  
-- 📞 Remote support (hardware/software)  
-- 💻 Basic scripting – PowerShell & Bash
+💻 IT Support & Systems
+- Windows 10/11 troubleshooting
+- Hardware installation & diagnostics
+- Remote hardware & software support
+- Windows & Linux administration
+- Virtualization
+🌐 Networking
+- TCP/IP fundamentals
+- Network troubleshooting
+- DNS & DHCP
+- Active Directory
+🛡️ Security
+- Log analysis & basic threat detection
+- Security monitoring
+- Incident documentation & reporting
+⚙️ Scripting
+- Basic PowerShell
+- Basic Bash
 
 ---
 
 ## 🛠️ Tools
 
-> 🔍 *Note: Some tools listed are actively in progress as part of my lab work.*
-
 ### 🛰️ Networking & Monitoring  
-✅ Wireshark  
-🟡 Suricata *(planned)*  
-🟡 TCPDump *(learning)*
 
 ### 💻 Endpoints & Systems  
-✅ Windows 10/11  
-✅ Kali Linux / Ubuntu  
-✅ VirtualBox
 
 ### 📊 SIEM & Security  
-✅ Wazuh (forwarded Sysmon logs, custom Sigma rules & dashboards)  
-🟡 Splunk Free *(planned)*  
-✅ Sysmon + Event Viewer
 
 ---
 
@@ -52,30 +55,11 @@ My journey in technology began with hands-on experience building and repairing c
   <img src="https://img.shields.io/badge/Google%20IT%20Support-34A853?style=for-the-badge&logo=Google&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-
+Currently studying: CompTIA Network+
 ---
 
 ## 📂 Projects
-
-- 🧪 **[Home Lab Setup](https://github.com/MikeyRondon/home-lab-setup)**  
-  End-to-end home cybersecurity lab: VirtualBox VMs, Wireshark SYN scan analysis, Sysmon → Wazuh integration with custom Sigma rules & incident reporting.
-
-- 🔍 [Wireshark TCP SYN Scan Analysis](https://github.com/MikeyRondon/home-lab-setup/blob/main/wireshark-scan-analysis.md)  
-  Captured and analyzed a basic TCP SYN scan using Nmap and Wireshark in an isolated virtual lab.
-
-- 🖥️ [Sysmon Log Analysis](https://github.com/MikeyRondon/home-lab-setup/blob/main/sysmon-log-analysis.md)  
-  Installed and configured Sysmon on a Windows 10 VM to monitor process creation and network activity, forwarded logs to Wazuh, authored Sigma rules, and documented incidents.
-
+I'm currently rebuilding my IT home lab portfolio with a focus on networking, systems administration, troubleshooting, and security. Projects will be added here as they're completed.
 ---
-
-### 🚧 In Progress
-
-- 📝 [TryHackMe Write-Ups](https://github.com/MikeyRondon/TryHackMe_Write_Ups)  
-  Journal documenting my deep-dives into SOC simulations, phishing analysis, and incident response exercises on TryHackMe.
-
-  
-- 🚧 _Coming soon_: PowerShell tools, endpoint security tests, and additional SIEM integrations.
-
----
-
