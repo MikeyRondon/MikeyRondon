@@ -6,7 +6,7 @@
 
 I'm an entry-level IT and networking professional with CompTIA A+ and Security+ certifications and hands-on experience building, upgrading, and troubleshooting computer hardware and Windows systems.
 
-I'm currently developing my networking skills while working toward CompTIA Network+ and gaining practical experience through home lab projects and IT support/SOC simulation platforms.
+I'm currently developing my networking skills while working toward CompTIA Network+ and gaining practical experience through home lab projects and IT support simulation platforms.
 
 ---
 
@@ -53,4 +53,29 @@ My interest in technology began with building, upgrading, and troubleshooting co
 *Currently studying: CompTIA Network+*
 
 ## 📂 Projects
-I'm currently rebuilding my IT home lab portfolio with a focus on networking, systems administration, troubleshooting, and security. Projects will be added here as they're completed.
+
+### 🖥️ Active Directory Home Lab
+Built a Windows Server 2025 Active Directory environment in Hyper-V to practice domain administration, DNS, Group Policy, user and group management, file sharing, permissions, and Windows client administration.
+
+**Highlights:**
+- Deployed Active Directory Domain Services and DNS
+- Created and managed organizational units, users, and security groups
+- Joined a Windows 11 workstation to the domain
+- Configured and tested Group Policy
+- Implemented SMB share and NTFS permissions
+- Practiced password resets, account lockouts, and account management
+- Troubleshot domain, DNS, and Windows Time service issues
+
+[View Active Directory Home Lab](https://github.com/MikeyRondon/active-directory-home-lab)
+
+### 🎫 ServiceDesk Simulator — IT Support Portfolio
+Completed simulated IT help desk tickets covering user support, networking, remote access, server troubleshooting, and workstation configuration. Each case study documents the issue, investigation, troubleshooting process, resolution, and verification.
+
+**Case studies include:**
+- Password expiration and login failure
+- Floor-wide network outage
+- VPN connectivity and DNS resolution
+- Building-wide printer outage
+- Workstation time zone and clock synchronization
+
+[View ServiceDesk Simulator Portfolio](https://github.com/MikeyRondon/servicedesk-simulator)
