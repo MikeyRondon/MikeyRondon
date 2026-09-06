@@ -68,7 +68,7 @@ Built a Windows Server 2025 Active Directory environment in Hyper-V to practice 
 
 [View Active Directory Home Lab](https://github.com/MikeyRondon/active-directory-home-lab)
 
-### 🎫 ServiceDesk Simulator — IT Support Portfolio
+### 🎫 ServiceDesk Simulator - IT Support Portfolio
 Completed simulated IT help desk tickets covering user support, networking, remote access, server troubleshooting, and workstation configuration. Each case study documents the issue, investigation, troubleshooting process, resolution, and verification.
 
 **Case studies include:**
